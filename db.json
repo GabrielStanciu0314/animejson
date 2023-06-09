@@ -43,7 +43,7 @@
       "studio": "Bones",
       "year": 2016,
       "rating": 8.5,
-       "coverImage": "https://example.com/naruto.jpg"
+       "coverImage": "https://kbimages1-a.akamaihd.net/c3ff7541-ee39-422e-863b-4668b8461d93/1200/1200/False/my-hero-academia-team-up-missions-vol-1.jpg"
     },
     {
       "title": "Sword Art Online",
@@ -52,7 +52,7 @@
       "studio": "A-1 Pictures",
       "year": 2012,
       "rating": 7.6,
-       "coverImage": "https://example.com/naruto.jpg"
+       "coverImage": "https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "title": "Hunter x Hunter",
@@ -61,8 +61,7 @@
       "studio": "Madhouse",
       "year": 2011,
       "rating": 9.1,
-       "coverImage": "https://example.com/naruto.jpg"
-    },
+       "coverImage": "https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Hunter_X_Hunter.jpg/191px-Hunter_X_Hunter.jpg
     {
       "title": "Fullmetal Alchemist",
       "genre": ["Action", "Adventure", "Fantasy"],
@@ -70,7 +69,7 @@
       "studio": "Bones",
       "year": 2003,
       "rating": 8.5,
-       "coverImage": "https://example.com/naruto.jpg"
+       "coverImage": "https://m.media-amazon.com/images/M/MV5BMmI5NmFlZjItOTBhOC00NGI0LWIyNDAtODJhOTJjZDEyMTYyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
     }
   ]
 }
