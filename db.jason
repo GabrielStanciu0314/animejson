@@ -1,0 +1,68 @@
+{
+  "anime": [
+    {
+      "title": "Naruto",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "episodes": 500,
+      "studio": "Studio Pierrot",
+      "year": 2002,
+      "rating": 8.2
+    },
+    {
+      "title": "Dragon Ball Z",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "episodes": 291,
+      "studio": "Toei Animation",
+      "year": 1989,
+      "rating": 8.7
+    },
+    {
+      "title": "Attack on Titan",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "episodes": 75,
+      "studio": "Wit Studio",
+      "year": 2013,
+      "rating": 8.9
+    },
+    {
+      "title": "One Piece",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "episodes": 1000,
+      "studio": "Toei Animation",
+      "year": 1999,
+      "rating": 8.7
+    },
+    {
+      "title": "My Hero Academia",
+      "genre": ["Action", "Comedy", "Superhero"],
+      "episodes": 117,
+      "studio": "Bones",
+      "year": 2016,
+      "rating": 8.5
+    },
+    {
+      "title": "Sword Art Online",
+      "genre": ["Action", "Adventure", "Romance"],
+      "episodes": 97,
+      "studio": "A-1 Pictures",
+      "year": 2012,
+      "rating": 7.6
+    },
+    {
+      "title": "Hunter x Hunter",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "episodes": 148,
+      "studio": "Madhouse",
+      "year": 2011,
+      "rating": 9.1
+    },
+    {
+      "title": "Fullmetal Alchemist",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "episodes": 64,
+      "studio": "Bones",
+      "year": 2003,
+      "rating": 8.5
+    }
+  ]
+}
