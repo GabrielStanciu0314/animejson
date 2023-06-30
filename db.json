@@ -1,61 +1,67 @@
 {
   "anime": [
-   
     {
+      "id": 1,
       "title": "Naruto",
       "genre": ["Action", "Adventure", "Fantasy"],
       "episodes": 500,
       "studio": "Studio Pierrot",
       "year": 2002,
       "rating": 8.2,
-       "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg"
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg"
     },
     {
+      "id": 2,
       "title": "Dragon Ball Z",
       "genre": ["Action", "Adventure", "Fantasy"],
       "episodes": 291,
       "studio": "Toei Animation",
       "year": 1989,
       "rating": 8.7,
-       "coverImage": "https://images.justwatch.com/poster/8569195/s718/dragon-ball-z.%7Bformat%7Dg"
+      "coverImage": "https://images.justwatch.com/poster/8569195/s718/dragon-ball-z.%7Bformat%7Dg"
     },
     {
+      "id": 3,
       "title": "Attack on Titan",
       "genre": ["Action", "Drama", "Fantasy"],
       "episodes": 75,
       "studio": "Wit Studio",
       "year": 2013,
       "rating": 8.9,
-       "coverImage": "https://m.media-amazon.com/images/I/91Gqbd-IeiL._AC_UF1000,1000_QL80_.jpg"
+      "coverImage": "https://m.media-amazon.com/images/I/91Gqbd-IeiL._AC_UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 4,
       "title": "One Piece",
       "genre": ["Action", "Adventure", "Comedy"],
       "episodes": 1000,
       "studio": "Toei Animation",
       "year": 1999,
       "rating": 8.7,
-       "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg"
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg"
     },
     {
+      "id": 5,
       "title": "My Hero Academia",
       "genre": ["Action", "Comedy", "Superhero"],
       "episodes": 117,
       "studio": "Bones",
       "year": 2016,
       "rating": 8.5,
-       "coverImage": "https://kbimages1-a.akamaihd.net/c3ff7541-ee39-422e-863b-4668b8461d93/1200/1200/False/my-hero-academia-team-up-missions-vol-1.jpg"
+      "coverImage": "https://kbimages1-a.akamaihd.net/c3ff7541-ee39-422e-863b-4668b8461d93/1200/1200/False/my-hero-academia-team-up-missions-vol-1.jpg"
     },
     {
+      "id": 6,
       "title": "Sword Art Online",
       "genre": ["Action", "Adventure", "Romance"],
       "episodes": 97,
       "studio": "A-1 Pictures",
       "year": 2012,
       "rating": 7.6,
-       "coverImage": "https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      "coverImage": "https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
     },
     {
+      "id": 7,
       "title": "Hunter x Hunter",
       "genre": ["Action", "Adventure", "Fantasy"],
       "episodes": 148,
@@ -65,6 +71,7 @@
        "coverImage": "https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Hunter_X_Hunter.jpg/191px-Hunter_X_Hunter.jpg"
     },
     {
+      "id": 8,
       "title": "Fullmetal Alchemist",
       "genre": ["Action", "Adventure", "Fantasy"],
       "episodes": 64,
